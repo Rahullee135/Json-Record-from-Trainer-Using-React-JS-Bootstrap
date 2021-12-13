@@ -1,0 +1,44 @@
+{   
+    "results":[
+    {
+    "label":"Test1",
+    "productId":"testone1",
+    "productName":"testOne",
+    "details":"Test One Detils",
+    "location":"erd-25,SLM-35,CBZ-20",
+    "quantity":"820",
+    "unit_price":"23",
+    "unit_cost":"43"
+    },
+    {
+    "label":"Test2",
+    "productId":"testtwo2",
+    "productName":"testtwo",
+    "details":"Test One Detils",
+    "location":"erd-5,SLM-3,CBZ-2",
+    "quantity":"180",
+    "unit_price":"63",
+    "unit_cost":"73"
+    },
+    
+    {
+    "label":"Test3",
+    "productId":"testthree3",
+    "productName":"testthree",
+    "details":"Testthree Detils",
+    "location":"KRU-12,SLM-20",
+    "quantity":"320",
+    "unit_price":"26",
+    "unit_cost":"46"
+    },
+    {
+    "label":"Test4",
+    "productId":"testfour4",
+    "productName":"testFour",
+    "details":"TestFour Detils",
+    "location":"erd-5,CBZ-20",
+    "quantity":"34",
+    "unit_price":"33",
+    "unit_cost":"23"
+    }]
+}
